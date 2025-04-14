@@ -1,0 +1,36 @@
+.form-container {
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #005bb5;
+  }
+  
+  div {
+    color: red;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+  }
+  
